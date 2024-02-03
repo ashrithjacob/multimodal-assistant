@@ -8,7 +8,7 @@ from os.path import join, isfile
 class VideoProcessor:
     def __init__(self, video_path):
         self.video_path = video_path
-        self.store_images_path = "./youtube_video/best_images/"
+        self.store_images_path = "./youtube_video/best_images_test/"
 
     @staticmethod
     def get_fps(video_path):
@@ -37,6 +37,10 @@ class VideoProcessor:
         return number_of_images
 
     def clearest(self, interval_seconds=3):
+        if not os.path.exists(self.store_images_path):
+            # Create the folder
+            os.makedirs(self.store_images_path)
+
         fps = self.get_fps(self.video_path)
         frame_count, cap = self.frame_count(self.video_path)
         number_existing_images = VideoProcessor.existing_number_of_images(self.store_images_path)
@@ -55,7 +59,9 @@ class VideoProcessor:
 
 if __name__ == "__main__":
     start = time.time()
-    for i in range(1,9):
-        vid = VideoProcessor(f"./youtube_video/video_high_split/part_{i}.mp4")
-        vid.clearest(3)
+    #for i in range(1,9):
+    #    vid = VideoProcessor(f"./youtube_video/video_high_split/part_{i}.mp4")
+    #    vid.clearest(3)
+    vid = VideoProcessor(f"./youtube_video/video_high_split/part_1.mp4")
+    vid.clearest(3)
     print(time.time() - start)
