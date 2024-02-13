@@ -2,6 +2,8 @@
 **/youtube_video/
 **/demo/
 **/weights/
+**/samples/
+**/video/*.pt
 *.sqlite3
 
 # Byte-compiled / optimized / DLL files
