@@ -1,0 +1,585 @@
+start:12.919| end:17.904| speaker:SPEAKER_00| text: Next up is a tool to help you become king or queen of your own castle.
+start:17.924| end:25.171| speaker:SPEAKER_01| text:Hello, Sharks.
+start:25.231| end:26.493| speaker:SPEAKER_01| text:My name is Kevin Lane.
+start:26.613| end:29.135| speaker:SPEAKER_00| text:And I'm Lori Lane from New Milford, Connecticut.
+start:29.315| end:31.658| speaker:SPEAKER_01| text:We are seeking $350,000 for 10% equity in our company, Create A Castle.
+start:36.508| end:38.31| speaker:SPEAKER_00| text: Everybody loves to vacation at the beach.
+start:38.57| end:41.052| speaker:SPEAKER_00| text:I know that I could lay in the sun for hours with our daughter.
+start:41.232| end:43.334| speaker:SPEAKER_00| text:Our son would stay in the water all day if we let him.
+start:43.474| end:52.342| speaker:SPEAKER_00| text:And if you're anything like my husband here, you like to spend hours and hours and hours ignoring his family building the most elaborate sandcastles.
+start:52.642| end:57.244| speaker:SPEAKER_01| text: but it's impossible to build a real sand castle using the traditional fill and flip buckets.
+start:57.844| end:62.546| speaker:SPEAKER_01| text:The wet sand sticks in the bucket, even at its best, it just looks boring.
+start:63.186| end:72.35| speaker:SPEAKER_00| text:That's why we invented Create-A-Castle, revolutionary split mold sand castle kits that allow you to build elaborate sand structures in no time at all.
+start:72.71| end:79.213| speaker:SPEAKER_01| text:Just buckle it, pack it, unbuckle it, and, well, create a castle.
+start:80.419| end:95.544| speaker:SPEAKER_00| text: Our pro kit includes a 10-inch cylinder for the base, a corbel to add a new level of intricacy, a stackable 6-inch piece for additional height, a ridge battlement brick form to add to the towers, and a window cutter to etch out elegant windows.
+start:95.864| end:99.725| speaker:SPEAKER_01| text:Then sit back, relax, and enjoy the admiration of everyone on the beach.
+start:99.925| end:106.987| speaker:SPEAKER_01| text:So, Sharks, who wants to create an empire with us, bringing families together, one castle at a time, with... Create a Castle!
+start:108.186| end:109.347| speaker:SPEAKER_00| text: I have six kids.
+start:109.927| end:113.128| speaker:SPEAKER_00| text:I'm a mom and bonus mom to six kids, okay?
+start:113.268| end:116.309| speaker:SPEAKER_00| text:So we spend a lot of time on the beach, and I love this.
+start:116.63| end:118.71| speaker:SPEAKER_00| text:Is there anything like this out there?
+start:118.73| end:119.991| speaker:SPEAKER_00| text:Because I feel like I've seen something
+start:121.051| end:121.792| speaker:SPEAKER_02| text: Nothing like this.
+start:121.892| end:128.003| speaker:SPEAKER_02| text:We're unique in the fact that we split, so the molds split in half, but they also are stackable in the right kind of sand.
+start:128.023| end:129.405| speaker:SPEAKER_02| text:You built that entire castle.
+start:129.906| end:130.968| speaker:SPEAKER_02| text:How long did that take?
+start:131.128| end:132.411| speaker:SPEAKER_02| text:That took me under two hours.
+start:134.614| end:135.475| speaker:SPEAKER_00| text: I see a patent.
+start:135.575| end:136.696| speaker:SPEAKER_02| text:Do you want to tell us about that?
+start:137.096| end:138.037| speaker:SPEAKER_00| text:Yes, so go ahead.
+start:138.077| end:140.719| speaker:SPEAKER_02| text:We have... Yeah, we have 12 patents worldwide.
+start:138.077| end:140.719| speaker:SPEAKER_02| text:We have... Yeah, we have 12 patents worldwide.
+start:140.999| end:142.1| speaker:SPEAKER_00| text:Wow.
+start:140.999| end:142.1| speaker:SPEAKER_00| text:Wow.
+start:142.541| end:143.381| speaker:SPEAKER_02| text:It is your patent.
+start:143.441| end:147.445| speaker:SPEAKER_02| text:You believe that protects you against anybody who wants to start splitting their doors open?
+start:147.485| end:148.36599999999999| speaker:SPEAKER_02| text:We have broad coverage.
+start:148.426| end:149.386| speaker:SPEAKER_02| text:It scales up and down.
+start:149.426| end:152.789| speaker:SPEAKER_02| text:That's why we're going down into the indoor line now as well.
+start:152.809| end:154.291| speaker:SPEAKER_01| text:All right, guys, look.
+start:154.651| end:157.013| speaker:SPEAKER_01| text:This is a very, very seasonal product.
+start:158.03| end:159.231| speaker:SPEAKER_00| text: It works in the snow.
+start:159.251| end:162.652| speaker:SPEAKER_00| text:Oh, that's really cute.
+start:162.672| end:164.253| speaker:SPEAKER_00| text:Thank you, Mr. Mart.
+start:164.273| end:164.53300000000002| speaker:SPEAKER_00| text:Perfect.
+start:164.573| end:165.393| speaker:SPEAKER_00| text:Yeah, so it does.
+start:165.453| end:166.394| speaker:SPEAKER_00| text:It works year round.
+start:166.79399999999998| end:169.375| speaker:SPEAKER_00| text:We figured that out the first year we did it.
+start:169.495| end:171.176| speaker:SPEAKER_00| text:And you can stack like crazy.
+start:171.196| end:173.016| speaker:SPEAKER_00| text:It's like Elsa's castle in the winter.
+start:173.036| end:173.356| speaker:SPEAKER_00| text:That's it.
+start:173.436| end:174.237| speaker:SPEAKER_00| text:We built it.
+start:174.597| end:175.677| speaker:SPEAKER_00| text:That's really, really cute.
+start:175.697| end:178.999| speaker:SPEAKER_01| text:I was about to say, who wants a castle in the winter, but Elsa.
+start:179.079| end:179.619| speaker:SPEAKER_00| text:Elsa.
+start:180.359| end:182.06| speaker:SPEAKER_01| text:So guys, what are the price ranges?
+start:182.1| end:183.761| speaker:SPEAKER_01| text:What's the least and what's the most?
+start:184.361| end:210.964| speaker:SPEAKER_00| text: so we go the tool kit that we have there the small box that's ten dollars and then the pro kit retails for fifty dollars what's your landed cost on this the little one is landed at two dollars the pro kit that cost us 9.45 so what did you sell last year you're imputing a value of a 3.5 million on this last year we did 600 000 and then this year we are doing three million three million wait a minute whoa how did that are you kidding me what we are
+start:211.264| end:214.04500000000002| speaker:SPEAKER_01| text: We landed Costco Canada as well as Sam's Club.
+start:214.425| end:217.906| speaker:SPEAKER_01| text:On the $600,000 in sales last year, what did you make on that?
+start:218.166| end:219.80599999999998| speaker:SPEAKER_00| text:We were actually negative $100,000.
+start:221.24599999999998| end:222.80700000000002| speaker:SPEAKER_00| text:We lost money last year.
+start:223.007| end:223.267| speaker:SPEAKER_00| text:Why?
+start:223.507| end:227.768| speaker:SPEAKER_00| text:And that was really due to the shipping costs were, like, 5X what we had budgeted.
+start:227.788| end:228.548| speaker:SPEAKER_00| text:Because of COVID.
+start:228.828| end:235.17000000000002| speaker:SPEAKER_00| text:Yeah, like, we used to get a container in for, you know, $4,000 to $6,000, and, you know, a couple of our containers last year were $25,000.
+start:236.47| end:239.87099999999998| speaker:SPEAKER_01| text:And the $3 million in sales, including the Costco and Sam's Club order,
+start:240.009| end:241.23| speaker:SPEAKER_02| text: What do you think you'll make on that?
+start:241.25| end:242.531| speaker:SPEAKER_01| text:This year, we're going to make about $300,000.
+start:244.353| end:246.114| speaker:SPEAKER_02| text:What is your margin to Costco then?
+start:246.515| end:248.757| speaker:SPEAKER_01| text:The margin we made, about 27% to 32% margin.
+start:248.797| end:250.738| speaker:SPEAKER_01| text:So that's part of your challenge.
+start:250.778| end:252.12| speaker:SPEAKER_00| text:So it's definitely a lot less, yes.
+start:253.16| end:278.568| speaker:SPEAKER_01| text: okay what are you looking for help for because right now it looks like you are scaling really well i understand you need to reduce costs but what else are you looking for i think mostly we need you know with the the capital that we're asking for to invest into more product and we just need expertise we've made so many mistakes and we're expanding into a whole we want to open up a whole licensing version a licensing version did you say damon
+start:280.54| end:281.0| speaker:SPEAKER_03| text: You're looking for $350,000.
+start:281.4| end:284.661| speaker:SPEAKER_03| text:I'm going to assume that's primarily for inventory.
+start:285.162| end:288.823| speaker:SPEAKER_03| text:And you're trying to figure out the Costco order translating into a U.S.
+start:288.883| end:289.923| speaker:SPEAKER_03| text:Costco order, correct?
+start:289.983| end:291.484| speaker:SPEAKER_03| text:Because a lot of people test up in Canada.
+start:291.504| end:291.844| speaker:SPEAKER_01| text:Are you sure?
+start:291.864| end:292.464| speaker:SPEAKER_01| text:Yeah, not necessarily.
+start:292.484| end:294.345| speaker:SPEAKER_03| text:Are you sure that you can make money off of that order?
+start:294.365| end:295.645| speaker:SPEAKER_01| text:Yeah, not necessarily.
+start:295.685| end:297.866| speaker:SPEAKER_01| text:I mean, we've learned a lot getting into the big box stores.
+start:297.946| end:302.087| speaker:SPEAKER_03| text:Are you going to make money on the Costco order because they're going to ask you for some co-op advertising as well?
+start:302.488| end:302.748| speaker:SPEAKER_01| text:Right.
+start:303.088| end:305.008| speaker:SPEAKER_03| text:That and markdowns and everything.
+start:305.028| end:306.429| speaker:SPEAKER_01| text:Yeah, we know we have the percentage of markdowns.
+start:306.469| end:308.089| speaker:SPEAKER_03| text:And they have the right to return the last 15% of it?
+start:308.109| end:308.209| speaker:SPEAKER_02| text:Yes.
+start:310.131| end:310.772| speaker:SPEAKER_02| text: Okay, so we've evolved.
+start:310.813| end:312.898| speaker:SPEAKER_02| text:So it sounds like you've had returns and markdowns.
+start:313.01800000000003| end:314.101| speaker:SPEAKER_01| text:Yes, yes, we've been experiencing that.
+start:314.121| end:315.243| speaker:SPEAKER_02| text:And that's impacted your 27% margins even worse.
+start:315.284| end:315.36400000000003| speaker:SPEAKER_02| text:Yes.
+start:318.39300000000003| end:321.795| speaker:SPEAKER_02| text: Yeah, guys, I think there's too much of an emphasis on sales rather than profits.
+start:322.096| end:326.378| speaker:SPEAKER_02| text:Every entrepreneur gets really hyped about doing business with big box retailers.
+start:326.859| end:330.841| speaker:SPEAKER_02| text:But the reality is, it's just going to take more and more cash like you found out.
+start:331.242| end:333.903| speaker:SPEAKER_02| text:And so, you know, chasing margin and profits is good.
+start:334.36400000000003| end:338.286| speaker:SPEAKER_02| text:Chasing sales, in my mind, particularly in these uncertain days, is bad.
+start:338.887| end:340.508| speaker:SPEAKER_02| text:And so for those reasons, I'm out.
+start:342.18600000000004| end:343.086| speaker:SPEAKER_03| text: Guys, let me tell you where I'm at.
+start:343.166| end:345.947| speaker:SPEAKER_03| text:I'm looking at the business model strictly as an investment.
+start:346.007| end:348.288| speaker:SPEAKER_03| text:Anytime it's $350,000, that's serious capital.
+start:348.608| end:352.049| speaker:SPEAKER_03| text:I'm not even going to beat you up on the $3.5 million valuation, although I should.
+start:352.509| end:356.25| speaker:SPEAKER_03| text:It's in my DNA to do that, but I'm going to hold back because I'm under anger management this year.
+start:356.73| end:359.991| speaker:SPEAKER_03| text:So at the end of the day, it's not investable yet.
+start:360.089| end:362.454| speaker:SPEAKER_00| text: because the business model isn't nailed down.
+start:363.075| end:369.807| speaker:SPEAKER_00| text:My sense is to dump the low end completely, raise the prices 30%, sell only on your own website direct.
+start:370.028| end:371.33| speaker:SPEAKER_00| text:Otherwise, you're never gonna make any money.
+start:371.771| end:372.031| speaker:SPEAKER_00| text:I'm out.
+start:373.533| end:373.853| speaker:SPEAKER_02| text: Okay.
+start:374.234| end:374.574| speaker:SPEAKER_02| text:Thank you.
+start:374.654| end:376.595| speaker:SPEAKER_02| text:Listen, I don't agree with what he just said.
+start:376.876| end:382.36| speaker:SPEAKER_02| text:Your price point, I think, is excellent, and I have always found I like to make products for the masses.
+start:382.6| end:385.742| speaker:SPEAKER_02| text:I like to make things where everybody can afford and enjoy it.
+start:386.303| end:391.126| speaker:SPEAKER_02| text:But I think, for me, it's not something that I want to invest, and I don't invest in everything that I like.
+start:391.787| end:394.729| speaker:SPEAKER_02| text:You're doing everything right, and I wish you good luck, but I'm out.
+start:398.659| end:400.922| speaker:SPEAKER_01| text: I absolutely love this product.
+start:400.942| end:401.343| speaker:SPEAKER_01| text:Thank you.
+start:401.403| end:406.009| speaker:SPEAKER_01| text:It brings me joy, and I love your price point, and I actually totally disagree with Kevin.
+start:406.069| end:409.253| speaker:SPEAKER_01| text:I think you want a balance of wholesale and retail.
+start:409.734| end:413.219| speaker:SPEAKER_01| text:Now, coming from a retailer myself who sells an omnichannel,
+start:413.659| end:417.56| speaker:SPEAKER_01| text: I sell wholesale, I sell direct-to-consumer online, and I have my own retail stores.
+start:418.0| end:420.161| speaker:SPEAKER_01| text:I think you can do it very thoughtfully.
+start:420.44100000000003| end:424.702| speaker:SPEAKER_01| text:Now, some of the discount retailers, I will agree with Kevin, can absolutely kill you.
+start:425.002| end:429.443| speaker:SPEAKER_01| text:So be thoughtful about where you go, but I think you've got a home run.
+start:430.104| end:431.244| speaker:SPEAKER_01| text:I'm going to give you an offer.
+start:431.88| end:437.322| speaker:SPEAKER_01| text: I'm gonna give you your $350,000, but I don't think your valuation's $3.5 million.
+start:437.442| end:437.722| speaker:SPEAKER_01| text:Okay.
+start:437.742| end:439.062| speaker:SPEAKER_01| text:You lost $100,000 last year.
+start:439.342| end:444.244| speaker:SPEAKER_01| text:So I don't see the $3.5, but I do see that there's going to be great potential and opportunity.
+start:445.36400000000003| end:446.324| speaker:SPEAKER_01| text:I'd like to give you $350,000 for 20%.
+start:446.885| end:454.547| speaker:SPEAKER_01| text:And I think I can help you with that omni-channel, which I do think is gonna help you build the business the way you want to build it.
+start:455.187| end:455.48699999999997| speaker:SPEAKER_01| text:Okay.
+start:455.847| end:456.16700000000003| speaker:SPEAKER_00| text:Awesome.
+start:458.808| end:459.528| speaker:SPEAKER_00| text:Wait, wait, wait, wait.
+start:460.429| end:460.729| speaker:SPEAKER_00| text:Hold on.
+start:464.741| end:479.831| speaker:SPEAKER_00| text: like this but Mark has a valid point you know this is gonna be your personal decision right do you raise the price stay online and you know net more or you want to go big do you bring in a shark
+start:480.269| end:481.05| speaker:SPEAKER_00| text: and you go big.
+start:481.391| end:485.136| speaker:SPEAKER_00| text:But if you go big, it's a huge cash suck.
+start:485.797| end:486.257| speaker:SPEAKER_00| text:Massive.
+start:486.738| end:489.702| speaker:SPEAKER_00| text:So I'm only interested in this for the licensing aspect.
+start:490.683| end:493.667| speaker:SPEAKER_00| text:That's a personal decision, but I will give you the $350,000 for 25%, and licensing is the key.
+start:498.328| end:500.048| speaker:SPEAKER_01| text: You know, look, I disagree with Damon.
+start:500.308| end:506.09| speaker:SPEAKER_01| text:I don't think this is just a licensing play, and I don't see why you guys can't be the next big toy manufacturer.
+start:506.31| end:507.29| speaker:SPEAKER_01| text:So that's what I want to do.
+start:507.33| end:509.63| speaker:SPEAKER_01| text:I want you to dream big, and I think I can help you get there.
+start:509.65| end:512.011| speaker:SPEAKER_00| text:By the way, when I say dream big, I'm talking about dreaming big.
+start:514.271| end:514.871| speaker:SPEAKER_00| text:What do you want to do?
+start:514.891| end:522.313| speaker:SPEAKER_01| text:Would you guys ever work together with the licensing?
+start:523.502| end:527.103| speaker:SPEAKER_00| text: I would love to work with her, but in this area, I'm the most successful licensing guy up here.
+start:527.283| end:528.263| speaker:SPEAKER_00| text:That's my area.
+start:528.923| end:530.003| speaker:SPEAKER_01| text:And I'm a brand builder.
+start:530.123| end:531.504| speaker:SPEAKER_01| text:I built my own brand, right?
+start:531.544| end:533.344| speaker:SPEAKER_01| text:From the ground up, out of my extra bedroom.
+start:533.704| end:534.844| speaker:SPEAKER_00| text:So I'm going to interpret that for you.
+start:534.884| end:536.4639999999999| speaker:SPEAKER_00| text:They said no, they don't want to work together.
+start:536.805| end:537.505| speaker:SPEAKER_00| text:What do you want to do?
+start:538.765| end:539.525| speaker:SPEAKER_01| text:You can counter.
+start:539.545| end:546.986| speaker:SPEAKER_01| text:You want to counter?
+start:547.006| end:547.347| speaker:SPEAKER_01| text:Yeah.
+start:547.447| end:548.707| speaker:SPEAKER_01| text:Would you be interested at 15%?
+start:551.874| end:552.615| speaker:SPEAKER_01| text: I'd like to stay at 20.
+start:553.075| end:553.375| speaker:SPEAKER_01| text:Okay.
+start:554.656| end:556.978| speaker:SPEAKER_00| text:I'm going to let you make the call.
+start:556.998| end:563.023| speaker:SPEAKER_00| text:She makes the decision.
+start:568.308| end:571.35| speaker:SPEAKER_01| text:I respect both of you, all of you guys anyways.
+start:571.49| end:572.151| speaker:SPEAKER_01| text:Absolutely.
+start:573.112| end:575.494| speaker:SPEAKER_01| text:But I think we're going to go with Kendra at the 20th.
+start:580.066| end:583.807| speaker:SPEAKER_01| text: Thank you, guys.
+start:588.928| end:589.808| speaker:SPEAKER_01| text:Thank you.
+start:589.8679999999999| end:590.929| speaker:SPEAKER_01| text:Sorry, Damon.
+start:590.969| end:591.829| speaker:SPEAKER_01| text:Thank you so much.
+start:593.389| end:599.991| speaker:SPEAKER_01| text:One of the reasons we went with Kendra is from the get-go, when we walked in there, she was so excited about the products and told us
+start:600.009| end:605.172| speaker:SPEAKER_01| text: really was invested in us and, you know, talked about the beach and her kids, so we knew she would be the perfect fit for us.
+start:605.692| end:606.833| speaker:SPEAKER_01| text:I love this product.
+start:607.654| end:608.314| speaker:SPEAKER_02| text:It's very cute.
+start:608.334| end:610.215| speaker:SPEAKER_01| text:I love it, and I'm going to use it with my kids.
+start:610.275| end:615.098| speaker:SPEAKER_02| text:That's a massively... Don't do it.
+start:615.158| end:616.118| speaker:SPEAKER_02| text:That's a bad deal.
+start:616.139| end:619.44| speaker:SPEAKER_02| text:I mean, I just think they're a bad judge of character.
+start:620.741| end:621.862| speaker:SPEAKER_01| text:I'm going to go try to build it back up.
+start:621.882| end:622.362| speaker:SPEAKER_01| text:Go ahead.
+start:622.502| end:622.842| speaker:SPEAKER_02| text:We'll wait.
+start:627.899| end:633.191| speaker:SPEAKER_00| text: Next into the tank is a couple hoping to wrap up a deal for their low-calorie superfood.
+start:642.298| end:642.758| speaker:SPEAKER_02| text: Hi, Sharks.
+start:643.079| end:643.92| speaker:SPEAKER_02| text:My name is Nguyen.
+start:644.12| end:649.545| speaker:SPEAKER_01| text:And my name is Melissa Kalalawang, and we're from New York, seeking $300,000 for 3% equity of our company.
+start:650.445| end:653.008| speaker:SPEAKER_02| text:Sharks, let's talk about something important.
+start:653.528| end:654.0889999999999| speaker:SPEAKER_02| text:Tacos.
+start:654.469| end:657.872| speaker:SPEAKER_02| text:Everyone loves tacos, but my doctors say I can't eat tacos every day.
+start:658.153| end:660.635| speaker:SPEAKER_01| text:That's because of the calorie-laden tortilla.
+start:660.755| end:661.936| speaker:SPEAKER_01| text:And switching to lettuce wraps?
+start:662.456| end:662.997| speaker:SPEAKER_02| text:Uh, no.
+start:663.217| end:665.94| speaker:SPEAKER_02| text:They break apart whenever you pick them up, and they just don't taste great.
+start:666.502| end:671.849| speaker:SPEAKER_01| text: If only there was something that combined the nutritional benefit of a lettuce wrap and the functionality of a traditional tortilla.
+start:671.909| end:672.53| speaker:SPEAKER_01| text:Well, now there is.
+start:672.55| end:674.673| speaker:SPEAKER_01| text:Say hello to... Hiccarabs!
+start:674.974| end:678.779| speaker:SPEAKER_01| text:A crisp and refreshing tortilla alternative made from thin slices of fresh jicama.
+start:679.34| end:680.061| speaker:SPEAKER_01| text:Hicca-what? !
+start:683.413| end:686.395| speaker:SPEAKER_01| text: Hey, it's Hiccup Man, a member of the League of Superfoods.
+start:687.096| end:690.358| speaker:SPEAKER_01| text:Pickles are a hero ingredient because it truly is a superfood.
+start:690.599| end:698.885| speaker:SPEAKER_01| text:It's super low calorie, super low carb, super high fiber, and one of its superpowers is improving gut health.
+start:700.266| end:701.726| speaker:SPEAKER_02| text: It's a yeah!
+start:701.766| end:708.148| speaker:SPEAKER_02| text:Compared to a tortilla which contains 100 calories and 15 carbs, our wraps are only 8 calories and 1 net carb per wrap.
+start:708.528| end:710.149| speaker:SPEAKER_02| text:Use them to skinny any taco.
+start:710.329| end:714.41| speaker:SPEAKER_01| text:Plus, they're perfectly round and pliable, and their neutral taste pairs well with any recipe.
+start:714.55| end:719.931| speaker:SPEAKER_02| text:So whether you're gluten-free, paleo, keto, Whole30, or just looking for a healthier way to make
+start:720.049| end:721.931| speaker:SPEAKER_00| text: everyday Taco Tuesday.
+start:721.951| end:723.992| speaker:SPEAKER_02| text:You can say, see ya, tortilla.
+start:724.312| end:727.635| speaker:SPEAKER_00| text:Lettuce, do better with Hicca wraps.
+start:727.795| end:729.316| speaker:SPEAKER_00| text:Hicca, yeah.
+start:729.416| end:731.858| speaker:SPEAKER_00| text:Come on, sharks, and join the Hicca mania.
+start:732.739| end:733.72| speaker:SPEAKER_00| text:Hicca what?
+start:733.78| end:734.661| speaker:SPEAKER_02| text:Hicca what?
+start:735.021| end:737.523| speaker:SPEAKER_02| text:So we've got, you guys have got samples of our jicama tacos.
+start:737.803| end:741.406| speaker:SPEAKER_02| text:You've got samples of our jicama sticks with cilantro lime seasoning and our jicama de gallo.
+start:741.806| end:744.788| speaker:SPEAKER_02| text:The jicama de gallo is our pico de gallo with jicama in it.
+start:745.209| end:746.91| speaker:SPEAKER_01| text:Can I get one without the stuffing?
+start:746.95| end:749.092| speaker:SPEAKER_01| text:I just want to taste the actual tortilla.
+start:749.537| end:750.979| speaker:SPEAKER_01| text: Have you never had jicama before?
+start:751.319| end:755.103| speaker:SPEAKER_01| text:It's like a watery, very pleasant-tasting, slightly sweet root.
+start:755.443| end:758.927| speaker:SPEAKER_01| text:I actually have jicama taco recipes in my last cookbook.
+start:759.267| end:759.928| speaker:SPEAKER_01| text:Oh, you do?
+start:760.448| end:761.529| speaker:SPEAKER_01| text:How much do you sell it for?
+start:761.569| end:762.53| speaker:SPEAKER_02| text:What does it cost to make it?
+start:762.631| end:764.192| speaker:SPEAKER_02| text:So, we make it for $1.85.
+start:764.232| end:768.817| speaker:SPEAKER_02| text:We sell it to retail for $2.99, and it's on shelf for $4.99.
+start:769.177| end:770.719| speaker:SPEAKER_02| text:And how many do I get in that package?
+start:771.039| end:773.04| speaker:SPEAKER_02| text: So you have about 15 wraps per package.
+start:773.26| end:774.84| speaker:SPEAKER_02| text:Each wrap is actually about 30 cents.
+start:775.1| end:777.741| speaker:SPEAKER_02| text:You're gonna pay 28 cents for a regular tortilla like this.
+start:778.101| end:783.984| speaker:SPEAKER_02| text:And a grain-free tortilla like a cassava or an almond flour tortilla, you're paying over a dollar a lot of times for that kind of a tortilla.
+start:784.324| end:785.624| speaker:SPEAKER_02| text:So it's very reasonably priced.
+start:785.924| end:788.065| speaker:SPEAKER_01| text:I see as a trend in the wellness
+start:789.265| end:791.366| speaker:SPEAKER_01| text: grain-free is becoming a huge thing.
+start:791.446| end:797.7090000000001| speaker:SPEAKER_01| text:First, it was gluten-free, and now it's, like, full-on grain-free, so people are not even having rice or quinoa.
+start:797.769| end:803.331| speaker:SPEAKER_01| text:They're really moving into this category, so I understand why it's getting traction for sure.
+start:803.651| end:804.912| speaker:SPEAKER_01| text:Hey, are you making any money?
+start:804.952| end:805.912| speaker:SPEAKER_01| text:Do you have any profits?
+start:806.744| end:810.726| speaker:SPEAKER_00| text: So we started the company in 2015 and we launched with a different product.
+start:811.106| end:811.986| speaker:SPEAKER_00| text:It was a jicama chip.
+start:812.386| end:814.847| speaker:SPEAKER_00| text:And that jicama chip, we got to $500,000 in sales.
+start:815.227| end:822.19| speaker:SPEAKER_00| text:The issue was we were competing in the salty snacks category and we were competing with large giants and we were losing so much money.
+start:822.4300000000001| end:827.652| speaker:SPEAKER_00| text:We got to the point where we only had $300 in our bank account and $70,000 of credit card debt.
+start:827.892| end:830.473| speaker:SPEAKER_00| text:We literally Airbnb'd our house just to survive.
+start:830.853| end:832.494| speaker:SPEAKER_00| text:We sold our car, we sold everything.
+start:832.914| end:833.635| speaker:SPEAKER_00| text:So we pivoted in 2019
+start:834.835| end:836.8820000000001| speaker:SPEAKER_00| text: from our jicama chips to fresh-cut jicama.
+start:837.283| end:839.931| speaker:SPEAKER_00| text:So in 2019, just one year sales, $1 million.
+start:840.59| end:841.47| speaker:SPEAKER_03| text: Wow.
+start:841.49| end:842.872| speaker:SPEAKER_03| text:2020, $4 million.
+start:843.392| end:844.193| speaker:SPEAKER_03| text:What?
+start:844.213| end:845.454| speaker:SPEAKER_03| text:2021, $5 million.
+start:845.514| end:847.276| speaker:SPEAKER_03| text:This year, we're doing $6 million.
+start:847.336| end:847.636| speaker:SPEAKER_00| text:Wow.
+start:847.917| end:848.357| speaker:SPEAKER_00| text:OK.
+start:848.457| end:850.879| speaker:SPEAKER_00| text:This year, in terms of profits, about $400,000.
+start:851.3| end:859.708| speaker:SPEAKER_00| text:About the same as last year, our profits are a little down this year because we've been putting a lot of our money and resources into actually building our own self-manufacturing capacity.
+start:859.968| end:861.109| speaker:SPEAKER_00| text:Where are you manufacturing?
+start:862.17| end:865.793| speaker:SPEAKER_00| text: The jicama products are processed and sourced in Mexico.
+start:866.013| end:871.737| speaker:SPEAKER_00| text:Mexico's actually the only country that grows jicama commercially, so we like to put our manufacturing very close to the source.
+start:871.937| end:873.698| speaker:SPEAKER_01| text:And how long does it stay fresh?
+start:873.938| end:887.388| speaker:SPEAKER_00| text:I mean, they package it in Mexico and ship it, and then... Yeah, so our shelf life is 19 days, which is actually two to three times what normal fresh-cut processors will get on jicama, because we really optimize the packaging to extend that shelf life.
+start:887.648| end:889.51| speaker:SPEAKER_01| text: What national retailers are you in, or grocers?
+start:889.79| end:895.034| speaker:SPEAKER_03| text:Some of the retailers that we're in are Whole Foods, Sprouts, and we actually have a big push into food service this year with Cisco.
+start:895.314| end:899.497| speaker:SPEAKER_03| text:We're actually being pushed into all of their distribution centers, so that's a great thing for our food service.
+start:899.638| end:900.478| speaker:SPEAKER_02| text:How many stores are you in?
+start:901.099| end:902.36| speaker:SPEAKER_00| text:We're in about $700.
+start:902.76| end:904.622| speaker:SPEAKER_02| text:And that leads to $6 million in sales?
+start:905.441| end:906.261| speaker:SPEAKER_02| text: They're very popular.
+start:906.281| end:906.342| speaker:SPEAKER_02| text:Yes.
+start:907.062| end:907.942| speaker:SPEAKER_01| text:Can I ask you a question?
+start:907.962| end:912.485| speaker:SPEAKER_01| text:$300,000 for 3%, I think that imputes a $10 million valuation.
+start:912.9449999999999| end:913.585| speaker:SPEAKER_01| text:You're going to make $400,000.
+start:914.086| end:918.768| speaker:SPEAKER_01| text:You're asking for a 25 multiple.
+start:919.2090000000001| end:925.752| speaker:SPEAKER_01| text:The stock market currently, the entire S&P, a trillion-dollar market capitalization, trades at 17.5.
+start:926.553| end:929.034| speaker:SPEAKER_01| text:Who is going to pay you 25x for this?
+start:929.894| end:930.975| speaker:SPEAKER_01| text:I mean, let's be realistic.
+start:931.235| end:933.776| speaker:SPEAKER_00| text: Well, we did come in here asking for two times our sales.
+start:933.816| end:935.457| speaker:SPEAKER_00| text:So, actually, this year, we're gonna do $6 million.
+start:935.758| end:936.678| speaker:SPEAKER_00| text:Next year, we're gonna do $9 million.
+start:936.698| end:941.181| speaker:SPEAKER_01| text:Yeah, but at the end of the day, it's what you make, and you're making thin margins in a food category.
+start:941.581| end:943.602| speaker:SPEAKER_01| text:No one is gonna do this deal at 3%.
+start:944.142| end:945.783| speaker:SPEAKER_01| text:Not here, not anywhere.
+start:946.123| end:947.984| speaker:SPEAKER_03| text:Well, we'd love to hear some offers from you guys.
+start:948.024| end:950.826| speaker:SPEAKER_03| text:If you want to increase the percentage, we're more than happy.
+start:950.926| end:951.987| speaker:SPEAKER_01| text:I'll start with an offer.
+start:952.187| end:952.447| speaker:SPEAKER_01| text:Sure.
+start:953.287| end:953.667| speaker:SPEAKER_01| text:All right.
+start:953.688| end:959.371| speaker:SPEAKER_01| text:I'll give you $300,000 for 10%, but I'd like a pro-rata share of what you earn from the business.
+start:960.329| end:964.854| speaker:SPEAKER_00| text: So therefore, if you're taking out $90, you're handing me $10.
+start:965.375| end:965.615| speaker:SPEAKER_00| text:Okay.
+start:966.696| end:967.537| speaker:SPEAKER_02| text:I'll save you some time.
+start:967.597| end:969.859| speaker:SPEAKER_02| text:Look, the jicama's good because I'm starving.
+start:969.979| end:971.201| speaker:SPEAKER_02| text:I'm not a huge jicama fan.
+start:972.244| end:973.085| speaker:SPEAKER_03| text: For those reasons, I'm out.
+start:973.125| end:974.386| speaker:SPEAKER_03| text:Thank you so much, Mark.
+start:974.426| end:974.886| speaker:SPEAKER_01| text:Thank you, Mark.
+start:974.926| end:975.627| speaker:SPEAKER_03| text:I appreciate that.
+start:975.827| end:977.108| speaker:SPEAKER_01| text:I'm going to follow Mark on this one.
+start:977.768| end:978.389| speaker:SPEAKER_01| text:I'm sorry.
+start:978.549| end:979.75| speaker:SPEAKER_01| text:I love you, jicama man.
+start:979.89| end:981.371| speaker:SPEAKER_01| text:You're adorable.
+start:981.451| end:982.212| speaker:SPEAKER_01| text:I love jicama.
+start:982.252| end:983.412| speaker:SPEAKER_01| text:The product is fantastic.
+start:983.452| end:986.895| speaker:SPEAKER_01| text:But for me, I make this myself at home, so.
+start:987.135| end:989.877| speaker:SPEAKER_02| text:You buy the whole jicama, you peel it, you use it.
+start:990.478| end:991.859| speaker:SPEAKER_01| text:So for that reason, I'm out.
+start:993.579| end:994.46| speaker:SPEAKER_02| text: I like Hikama.
+start:994.52| end:995.66| speaker:SPEAKER_02| text:I like what you're doing.
+start:995.68| end:1000.443| speaker:SPEAKER_02| text:I believe that you are completely in the right space at the right time doing the right thing.
+start:1000.463| end:1002.444| speaker:SPEAKER_02| text:I think it's a great business for you.
+start:1002.504| end:1004.025| speaker:SPEAKER_02| text:I don't think it's the right business for me.
+start:1004.345| end:1005.466| speaker:SPEAKER_02| text:I wish you good luck, but I'm not.
+start:1006.206| end:1006.507| speaker:SPEAKER_01| text:Okay.
+start:1006.547| end:1007.167| speaker:SPEAKER_01| text:Thank you, Lori.
+start:1007.647| end:1009.488| speaker:SPEAKER_01| text:You're killing Hikama Man over here.
+start:1011.77| end:1013.4110000000001| speaker:SPEAKER_02| text:You know, you have an offer from Barbara.
+start:1013.671| end:1014.391| speaker:SPEAKER_02| text:What do you think of it?
+start:1014.751| end:1020.074| speaker:SPEAKER_03| text:So, in terms of the percentage, are you willing to do the $300,000 for...
+start:1024.317| end:1026.479| speaker:SPEAKER_00| text: 5%.
+start:1024.878| end:1026.479| speaker:SPEAKER_00| text:5%?
+start:1025.818| end:1026.479| speaker:SPEAKER_00| text:No, I wouldn't.
+start:1026.619| end:1028.12| speaker:SPEAKER_00| text:I would have to stay with the 10%.
+start:1028.56| end:1031.682| speaker:SPEAKER_04| text:I'll do it for 9% just to make it interesting for Barbara.
+start:1031.702| end:1031.902| speaker:SPEAKER_04| text:Okay.
+start:1031.962| end:1033.243| speaker:SPEAKER_04| text:And then you get Chef Wonderful.
+start:1033.603| end:1035.484| speaker:SPEAKER_04| text:Just squeezing her ikima a little bit.
+start:1036.144| end:1036.465| speaker:SPEAKER_02| text:Okay.
+start:1036.685| end:1038.406| speaker:SPEAKER_02| text:And pro rata deal for Kevin as well.
+start:1038.546| end:1039.206| speaker:SPEAKER_02| text:Oh, absolutely.
+start:1039.246| end:1040.747| speaker:SPEAKER_02| text:Otherwise, you never get your capital back.
+start:1041.528| end:1042.488| speaker:SPEAKER_03| text:Are you guys willing to do 7%?
+start:1044.585| end:1045.426| speaker:SPEAKER_02| text: Definitely not, no.
+start:1045.466| end:1046.267| speaker:SPEAKER_04| text:Not for me, no.
+start:1046.767| end:1047.808| speaker:SPEAKER_04| text:I pointed out what you've done.
+start:1047.868| end:1050.031| speaker:SPEAKER_04| text:You value your business in an extraordinary multiple.
+start:1050.051| end:1050.851| speaker:SPEAKER_04| text:I'm a multiple guy.
+start:1050.892| end:1052.153| speaker:SPEAKER_04| text:I'm a financial services guy.
+start:1052.173| end:1053.915| speaker:SPEAKER_04| text:I do a lot of private equity deals.
+start:1054.295| end:1056.017| speaker:SPEAKER_04| text:You would not get that deal in the world today.
+start:1056.454| end:1059.776| speaker:SPEAKER_00| text: Other than the money, what is it you're looking for in a shark partner?
+start:1060.137| end:1064.62| speaker:SPEAKER_03| text:As we mentioned before, we have the manufacturing set up, but we need help in sales and marketing.
+start:1064.82| end:1068.022| speaker:SPEAKER_04| text:Look, I can open up the doors at Grocery because I have so many other products in there.
+start:1068.283| end:1069.403| speaker:SPEAKER_00| text:He's honestly over promising.
+start:1069.423| end:1070.484| speaker:SPEAKER_00| text:But she's talking her book.
+start:1070.664| end:1071.565| speaker:SPEAKER_00| text:I know what I do well.
+start:1071.625| end:1072.726| speaker:SPEAKER_00| text:I do sales and marketing.
+start:1072.766| end:1074.7069999999999| speaker:SPEAKER_00| text:That's how I became rich in the first place.
+start:1075.568| end:1076.929| speaker:SPEAKER_00| text:I know it better than anyone else.
+start:1077.609| end:1079.871| speaker:SPEAKER_00| text:I can certainly deliver the same social marketing
+start:1080.849| end:1083.03| speaker:SPEAKER_02| text: who thinks he's much more wonderful than he actually is.
+start:1083.53| end:1083.71| speaker:SPEAKER_02| text:Okay?
+start:1083.971| end:1084.351| speaker:SPEAKER_02| text:Got it?
+start:1084.971| end:1085.111| speaker:SPEAKER_02| text:Oh!
+start:1085.171| end:1086.331| speaker:SPEAKER_02| text:Because he's an overstater.
+start:1086.351| end:1087.672| speaker:SPEAKER_02| text:You want the truth?
+start:1087.692| end:1090.013| speaker:SPEAKER_00| text:The only reason she's here is I bought her a new broom this year.
+start:1091.133| end:1093.174| speaker:SPEAKER_02| text:And I'm gonna tell him where to shove that broom any minute.
+start:1093.354| end:1095.675| speaker:SPEAKER_00| text:You guys have to make a decision.
+start:1095.695| end:1096.475| speaker:SPEAKER_00| text:You got two offers.
+start:1096.776| end:1099.217| speaker:SPEAKER_02| text:Barbara, would you consider $300,000 for 6% and then 2% in advisory shares?
+start:1099.237| end:1101.037| speaker:SPEAKER_02| text:Well, how about 1% more in advisory shares?
+start:1101.057| end:1102.278| speaker:SPEAKER_02| text:3% in advisory shares.
+start:1102.878| end:1103.138| speaker:SPEAKER_02| text:Total of 9%.
+start:1108.24| end:1109.14| speaker:SPEAKER_02| text: Yes, I would, actually.
+start:1109.38| end:1110.22| speaker:SPEAKER_02| text:Just to beat him out.
+start:1116.042| end:1116.902| speaker:SPEAKER_01| text:What would you guys like to do?
+start:1117.462| end:1120.583| speaker:SPEAKER_01| text:So, Barbara, you've got a deal.
+start:1120.783| end:1121.323| speaker:SPEAKER_04| text:Thank you very much.
+start:1121.343| end:1122.103| speaker:SPEAKER_04| text:Congrats, guys.
+start:1122.703| end:1123.283| speaker:SPEAKER_04| text:That's smart.
+start:1123.323| end:1124.084| speaker:SPEAKER_04| text:Really smart move.
+start:1124.424| end:1125.104| speaker:SPEAKER_04| text:Congrats, Barbara.
+start:1125.264| end:1126.344| speaker:SPEAKER_04| text:Thank you very much.
+start:1126.564| end:1127.904| speaker:SPEAKER_04| text:You're terrific together, by the way.
+start:1127.944| end:1128.905| speaker:SPEAKER_04| text:Thank you.
+start:1128.925| end:1129.805| speaker:SPEAKER_04| text:Get rid of this bozo.
+start:1137.408| end:1139.189| speaker:SPEAKER_01| text: I can't believe this is insane.
+start:1139.53| end:1145.733| speaker:SPEAKER_01| text:I mean, we've been watching Shark Tank forever now, so... Dream of my lifetime.
+start:1148.955| end:1152.718| speaker:SPEAKER_01| text:First into the tank is an adorable way to learn a new skill.
+start:1160.666| end:1161.147| speaker:SPEAKER_03| text: Hey, Sharks.
+start:1161.427| end:1162.209| speaker:SPEAKER_03| text:We're Justine.
+start:1162.369| end:1163.03| speaker:SPEAKER_03| text:And Adrian.
+start:1163.07| end:1165.775| speaker:SPEAKER_03| text:The wife and husband team behind the Wubbles.
+start:1166.256| end:1168.38| speaker:SPEAKER_04| text:Today, we're seeking a $250,000 investment in exchange for 5% equity in our company.
+start:1168.42| end:1168.5| speaker:SPEAKER_04| text:Wow.
+start:1172.574| end:1175.256| speaker:SPEAKER_03| text: Sharks, we're here to get you hooked.
+start:1175.856| end:1176.597| speaker:SPEAKER_03| text:On crochet!
+start:1177.357| end:1178.798| speaker:SPEAKER_03| text:Our company is the Woovles.
+start:1179.058| end:1181.74| speaker:SPEAKER_03| text:We make fun, simple kits that teach you how to crochet.
+start:1182.12| end:1189.685| speaker:SPEAKER_03| text:But instead of a boring potholder, you'll learn how to make adorable characters like... Pierre the penguin and Felix the fox.
+start:1190.005| end:1192.426| speaker:SPEAKER_03| text:Fred the dino and Sebastian the lion.
+start:1192.727| end:1196.709| speaker:SPEAKER_03| text:Each kit comes with step-by-step videos that teach complete beginners how to crochet.
+start:1197.109| end:1197.83| speaker:SPEAKER_03| text:Our secret?
+start:1198.17| end:1199.771| speaker:SPEAKER_03| text:We're not just a crochet company.
+start:1200.169| end:1202.55| speaker:SPEAKER_00| text: We see ourselves as an education company, too.
+start:1202.911| end:1206.192| speaker:SPEAKER_01| text:We've seen that something magical happens when people learn a new skill.
+start:1206.493| end:1207.553| speaker:SPEAKER_01| text:It's about confidence.
+start:1207.853| end:1211.996| speaker:SPEAKER_00| text:So, Sharks, who's ready to Wubble with us?
+start:1212.036| end:1212.696| speaker:SPEAKER_01| text:Super cute.
+start:1213.096| end:1213.717| speaker:SPEAKER_00| text:Thank you.
+start:1213.757| end:1214.417| speaker:SPEAKER_01| text:Super cute.
+start:1214.657| end:1219.3| speaker:SPEAKER_00| text:What you have in front of you is both a kit and an example of the Wubble that you would make with this kit.
+start:1219.78| end:1223.224| speaker:SPEAKER_00| text: And if you open up the pouch, then you'll see our easy peasy yarn.
+start:1223.664| end:1233.834| speaker:SPEAKER_00| text:And then most importantly, there's a card inside of the pouch that has a link and a QR code that brings you to our website tutorial our customers will follow to learn how to make that Wubble.
+start:1234.134| end:1237.958| speaker:SPEAKER_00| text:What is the age start for this?
+start:1238.078| end:1244.324| speaker:SPEAKER_00| text:So most people will look at our product and think that it's for kids, but most of our customers are actually adults buying it for themselves.
+start:1244.844| end:1246.766| speaker:SPEAKER_01| text: And what do you sell these for and what do they cost you to make?
+start:1247.026| end:1248.127| speaker:SPEAKER_01| text:Landed, they're $3.
+start:1248.407| end:1250.469| speaker:SPEAKER_01| text:We wholesale for $15 and we retail for $30.
+start:1250.549| end:1250.849| speaker:SPEAKER_01| text:Wow.
+start:1250.869| end:1252.25| speaker:SPEAKER_01| text:How do you sell them?
+start:1252.43| end:1255.773| speaker:SPEAKER_01| text:Over 90% of our sales are direct-to-consumer, straight from our website.
+start:1256.454| end:1258.335| speaker:SPEAKER_00| text: So what made you crochet in the first place?
+start:1258.455| end:1262.518| speaker:SPEAKER_00| text:Before I started the WooBalls, I used to lead user experience for Google Classroom.
+start:1262.899| end:1267.342| speaker:SPEAKER_00| text:And I spent the bulk of my career as a UX designer working on education products.
+start:1267.722| end:1268.703| speaker:SPEAKER_00| text:And I loved my job.
+start:1268.823| end:1269.643| speaker:SPEAKER_00| text:I was great at it.
+start:1269.944| end:1271.745| speaker:SPEAKER_00| text:I was so great that they made me a manager.
+start:1271.845| end:1274.267| speaker:SPEAKER_00| text:And it turns out I sucked at being a manager.
+start:1275.467| end:1281.25| speaker:SPEAKER_00| text: And so to take my mind off of work, I started dabbling in all these other hobbies, and crochet was one of those things.
+start:1281.711| end:1288.294| speaker:SPEAKER_00| text:And learning to crochet reminded me that I still have it in me to learn something new, that I could try to become a better manager.
+start:1288.314| end:1293.857| speaker:SPEAKER_00| text:And so that experience of really building back my confidence through crochet is why we started this.
+start:1293.937| end:1295.938| speaker:SPEAKER_00| text:I want to share that experience with other people.
+start:1296.438| end:1298.159| speaker:SPEAKER_00| text:Are you still at Google?
+start:1298.179| end:1298.72| speaker:SPEAKER_00| text:Oh, no, no, no.
+start:1298.78| end:1299.6| speaker:SPEAKER_00| text:This is 100% full-time.
+start:1299.62| end:1301.041| speaker:SPEAKER_01| text:Is it full-time for both of you?
+start:1301.181| end:1301.501| speaker:SPEAKER_01| text:Yes.
+start:1301.761| end:1303.242| speaker:SPEAKER_00| text:And what's your background?
+start:1303.762| end:1310.326| speaker:SPEAKER_01| text: From a really young age, I've been taught that success means getting good grades, going to a good school, and getting a really high-paying job.
+start:1311.006| end:1312.227| speaker:SPEAKER_01| text:And that's exactly what I did.
+start:1312.287| end:1314.548| speaker:SPEAKER_01| text:So I became one of the youngest directors on Wall Street.
+start:1314.708| end:1319.911| speaker:SPEAKER_01| text:I traded billions of dollars in equities, but I wasn't any happier at the end of it than when I started.
+start:1320.401| end:1326.405| speaker:SPEAKER_00| text: And what I began to realize was that I had spent all that time working towards someone else's definition of success.
+start:1327.065| end:1331.648| speaker:SPEAKER_00| text:And so I left it all behind to go and try and figure out what my own definition of success is.
+start:1332.349| end:1335.491| speaker:SPEAKER_00| text:I knew from a really young age that I really liked helping people.
+start:1335.571| end:1340.934| speaker:SPEAKER_00| text:And then when we started thinking about crochet kits, what's really neat about it is that it is that confidence boost.
+start:1341.335| end:1344.196| speaker:SPEAKER_00| text:Sometimes as we get older, you kind of stop learning new things.
+start:1344.236| end:1346.678| speaker:SPEAKER_00| text:You start saying things like, you know, I'm too old to learn that.
+start:1346.858| end:1353.668| speaker:SPEAKER_00| text: And so what brings me joy with these kits is that they're a little confidence boost to remind you that you can always learn something new.
+start:1353.868| end:1356.872| speaker:SPEAKER_00| text:So exactly two years ago, we started this business.
+start:1357.353| end:1360.718| speaker:SPEAKER_00| text:We took $200, we bought some yarn, and we bought a domain name.
+start:1361.018| end:1362.46| speaker:SPEAKER_00| text:And since then, we've done $5.3 million.
+start:1364.372| end:1366.073| speaker:SPEAKER_00| text: Wow, good for you.
+start:1366.713| end:1367.113| speaker:SPEAKER_01| text:What?
+start:1367.173| end:1367.973| speaker:SPEAKER_01| text:That's incredible.
+start:1368.173| end:1376.136| speaker:SPEAKER_00| text:Yeah, so here to date, we've done $3.1 million, and if we assume that we've just stopped growing from this point on out, we'll do $7 million this year.
+start:1376.276| end:1380.538| speaker:SPEAKER_01| text:Okay, you're direct-to-consumer, which means you're doing a lot of online advertising.
+start:1380.938| end:1386.58| speaker:SPEAKER_01| text:So tell us what your costs to acquire these revenues are, what your gross margins are, and what your net margins are.
+start:1387.04| end:1390.403| speaker:SPEAKER_00| text: Yeah, so we spend about 20% of our revenue on advertising.
+start:1390.523| end:1391.224| speaker:SPEAKER_00| text:Okay, that's not bad.
+start:1391.424| end:1393.106| speaker:SPEAKER_00| text:It costs us a blended CAC of $16.
+start:1393.366| end:1395.848| speaker:SPEAKER_00| text:The average order value is around $57.
+start:1395.948| end:1396.148| speaker:SPEAKER_00| text:Okay.
+start:1396.309| end:1396.429| speaker:SPEAKER_00| text:Wow.
+start:1396.469| end:1399.992| speaker:SPEAKER_00| text:Do they order one kit or more than one kit?
+start:1400.012| end:1401.413| speaker:SPEAKER_00| text:So that's about two kits.
+start:1401.654| end:1402.975| speaker:SPEAKER_00| text:Then you're making a lot of money.
+start:1403.355| end:1406.998| speaker:SPEAKER_00| text:So 86% gross margin, 32% net margin lifetime, and 38% year-to-date.
+start:1407.179| end:1407.739| speaker:SPEAKER_00| text:Great margins.
+start:1411.062| end:1439.991| speaker:SPEAKER_00| text: so why do you need 250 i mean you're killing it we're here for three reasons we're here for licensing wholesale and mentorship uh when it comes to licensing when a customer finishes the kit the first thing they think is i need to get another kit and they start asking us where's baby yoda do you have any disney characters where are the marvel characters at guys how did you arrive at your evaluation that you presented we know our evaluation is very low um it's low because it's very low because we are here to make a deal um we can learn
+start:1440.529| end:1442.511| speaker:SPEAKER_02| text: so much from this group of people in this room.
+start:1442.991| end:1446.253| speaker:SPEAKER_02| text:And the way we see it, we have two huge opportunities ahead of us.
+start:1446.273| end:1451.877| speaker:SPEAKER_02| text:We haven't even begun to talk about wholesale, but licensing and wholesale we think can drive this brand to the next level.
+start:1451.957| end:1453.198| speaker:SPEAKER_02| text:You want to go to retail?
+start:1453.618| end:1454.679| speaker:SPEAKER_02| text:We want to go to retail.
+start:1454.699| end:1455.42| speaker:SPEAKER_02| text:Why, when you're killing it?
+start:1455.44| end:1456.841| speaker:SPEAKER_02| text:Because they have enough margin, yeah.
+start:1457.541| end:1458.962| speaker:SPEAKER_02| text: We've done a test order.
+start:1459.123| end:1462.346| speaker:SPEAKER_03| text:So now we get a little more about what the mission really is.
+start:1462.966| end:1468.471| speaker:SPEAKER_03| text:Is the basis or the mechanism for that learning in your vision always going to be crochet?
+start:1468.992| end:1474.897| speaker:SPEAKER_03| text:Meaning, is the next product that you have coming a non-crochet or some other form?
+start:1474.997| end:1477.839| speaker:SPEAKER_00| text: Yes, the key to our business is the learn-to part.
+start:1478.159| end:1482.962| speaker:SPEAKER_00| text:What we apply it to can change, but right now we are 100% focused on crochet.
+start:1483.022| end:1485.564| speaker:SPEAKER_03| text:So for the foreseeable future, it's crochet kits.
+start:1485.664| end:1486.285| speaker:SPEAKER_00| text:Exactly, yep.
+start:1486.445| end:1487.526| speaker:SPEAKER_04| text:I like this deal, okay?
+start:1487.566| end:1491.048| speaker:SPEAKER_04| text:Because it has something I love called cash flow.
+start:1491.068| end:1492.669| speaker:SPEAKER_04| text:What does it have?
+start:1493.069| end:1493.43| speaker:SPEAKER_04| text:And so...
+start:1494.27| end:1495.23| speaker:SPEAKER_04| text: I see it this way.
+start:1495.47| end:1500.672| speaker:SPEAKER_04| text:I think I can reduce your costs of acquiring customers by around eight to 10%.
+start:1501.733| end:1504.394| speaker:SPEAKER_04| text:Number two, I can definitely help you with licensing.
+start:1504.434| end:1506.835| speaker:SPEAKER_04| text:Been there, done that with lots and lots of brands.
+start:1507.355| end:1513.577| speaker:SPEAKER_04| text:I also think I can help you with some other interesting ideas in the fashion world with this stuff, okay?
+start:1513.797| end:1514.798| speaker:SPEAKER_04| text: The fashion world?
+start:1514.958| end:1516.199| speaker:SPEAKER_01| text:This I can't wait to hear.
+start:1516.359| end:1517.5| speaker:SPEAKER_01| text:This is far stretch.
+start:1517.84| end:1520.903| speaker:SPEAKER_04| text:You want to hear the offer or not?
+start:1521.343| end:1523.285| speaker:SPEAKER_04| text:I'll give you the $250,000 for 10% equity.
+start:1523.365| end:1529.51| speaker:SPEAKER_04| text:Coming from you, Mr. Wonderful, I expected to hear the words royalty.
+start:1529.75| end:1530.271| speaker:SPEAKER_02| text:You know why?
+start:1530.311| end:1530.911| speaker:SPEAKER_02| text:You know why?
+start:1531.012| end:1533.0529999999999| speaker:SPEAKER_02| text:You have cash flow.
+start:1533.514| end:1536.937| speaker:SPEAKER_02| text:Would it be okay if we just heard that, if any of the other sharks are interested as well?
+start:1536.9569999999999| end:1537.977| speaker:SPEAKER_04| text:I would definitely.
+start:1539.138| end:1539.959| speaker:SPEAKER_04| text:I'll give you $300,000 for the same 10%.
+start:1544.09| end:1544.43| speaker:SPEAKER_02| text: Thank you.
+start:1545.011| end:1546.013| speaker:SPEAKER_01| text:I love this.
+start:1546.253| end:1547.354| speaker:SPEAKER_01| text:I'm going to make you an offer.
+start:1548.215| end:1550.378| speaker:SPEAKER_01| text:I'm going to go $300,000 for 10%.
+start:1552.481| end:1553.963| speaker:SPEAKER_01| text:I understand all of this.
+start:1554.203| end:1559.39| speaker:SPEAKER_01| text:I mean, I've been in this market so much, and I know how to get all
+start:1560.009| end:1569.737| speaker:SPEAKER_03| text: the things you talked about, from the licensing to the retail stores, I think you should be everywhere and fast because you are something that could really take off.
+start:1570.217| end:1570.737| speaker:SPEAKER_03| text:Exactly.
+start:1571.058| end:1571.798| speaker:SPEAKER_02| text:That's our mission.
+start:1571.858| end:1574.3| speaker:SPEAKER_02| text:We want to spread the joy and confidence of learning something new.
+start:1574.32| end:1575.081| speaker:SPEAKER_03| text:I'm going to give you $350,000 for 10%.
+start:1575.121| end:1575.161| speaker:SPEAKER_03| text:Oh!
+start:1575.181| end:1575.341| speaker:SPEAKER_03| text:$300,000 for 8%.
+start:1575.381| end:1575.421| speaker:SPEAKER_03| text:OK.
+start:1575.521| end:1575.761| speaker:SPEAKER_03| text:It's 8%.
+start:1575.821| end:1580.505| speaker:SPEAKER_03| text:This mentoring is going to be worth it.
+start:1587.455| end:1589.195| speaker:SPEAKER_01| text: Guys, you understand all the offers, right?
+start:1589.355| end:1590.256| speaker:SPEAKER_01| text:You got to make a decision.
+start:1591.336| end:1592.096| speaker:SPEAKER_03| text:Hold it a second.
+start:1592.176| end:1602.799| speaker:SPEAKER_03| text:Just hold it a second.
+start:1606.12| end:1615.422| speaker:SPEAKER_00| text:All sharks are still in, and there's a bidding war between Barbara, Kevin, and Lori for Adrian and Justine's highly profitable crochet kit business, The Wubbles.
+start:1615.899| end:1617.92| speaker:SPEAKER_03| text: I'm gonna give you the 350 for 5%.
+start:1619.941| end:1621.621| speaker:SPEAKER_03| text:That's how much I believe in your business.
+start:1622.221| end:1627.624| speaker:SPEAKER_03| text:You are sitting on a rocket, but you have to let me know right away, because I'm being a fool here, bidding against myself.
+start:1627.804| end:1629.664| speaker:SPEAKER_02| text:Would you consider adding another shark to your offer?
+start:1630.025| end:1630.865| speaker:SPEAKER_03| text:I'll do it with Mark.
+start:1631.005| end:1631.565| speaker:SPEAKER_03| text:Come on, Mark.
+start:1631.585| end:1632.806| speaker:SPEAKER_03| text:Come here with me.
+start:1632.826| end:1633.686| speaker:SPEAKER_03| text:I was 300 for eight.
+start:1633.966| end:1636.247| speaker:SPEAKER_02| text:You don't need... I can do this all alone.
+start:1636.607| end:1639.948| speaker:SPEAKER_02| text:We've read your book, and we know... We've seen what you've been able to do.
+start:1640.669| end:1643.67| speaker:SPEAKER_02| text:I think that if you would team up with another shark,
+start:1645.461| end:1646.3220000000001| speaker:SPEAKER_02| text: What was the amount you gave us?
+start:1645.461| end:1646.3220000000001| speaker:SPEAKER_02| text: What was the amount you gave us?
+start:1646.362| end:1647.383| speaker:SPEAKER_02| text:The 350 for 6%.
+start:1647.863| end:1651.566| speaker:SPEAKER_02| text:Robert, are you going to do anything here?
+start:1651.606| end:1654.008| speaker:SPEAKER_02| text:Well, I'm trying to get a word in here.
+start:1654.108| end:1655.71| speaker:SPEAKER_02| text:I mean, it's hard.
+start:1656.15| end:1658.452| speaker:SPEAKER_02| text:I'm just saying, how can I get a piece of this?
+start:1658.472| end:1659.073| speaker:SPEAKER_02| text:Make an offer.
+start:1659.093| end:1659.733| speaker:SPEAKER_01| text:Do you want Robert in it?
+start:1659.753| end:1660.394| speaker:SPEAKER_01| text:Make an offer.
+start:1663.004| end:1664.025| speaker:SPEAKER_02| text: I'd love to be involved.
+start:1664.065| end:1665.7069999999999| speaker:SPEAKER_03| text:So, we're gonna give you 450 for 6%.
+start:1665.747| end:1669.55| speaker:SPEAKER_03| text:The two of us together.
+start:1669.57| end:1670.692| speaker:SPEAKER_01| text:Nasty move.
+start:1670.752| end:1671.672| speaker:SPEAKER_03| text:Two of us together.
+start:1671.853| end:1673.594| speaker:SPEAKER_01| text:Guys, you understand all the offers, right?
+start:1673.774| end:1674.856| speaker:SPEAKER_01| text:You gotta make a decision.
+start:1674.876| end:1675.897| speaker:SPEAKER_01| text:Can we take him on that?
+start:1675.9569999999999| end:1676.217| speaker:SPEAKER_01| text:Yes.
+start:1676.257| end:1676.597| speaker:SPEAKER_01| text:You can.
+start:1676.6970000000001| end:1676.898| speaker:SPEAKER_01| text:You can.
+start:1685.229| end:1687.051| speaker:SPEAKER_01| text: Let's just try.
+start:1688.352| end:1694.817| speaker:SPEAKER_01| text:Okay, so... Each shark offers a lot of different value in different areas.
+start:1695.178| end:1700.022| speaker:SPEAKER_01| text:And where we think in the short term that we can really get the most help is with Mark and Lori.
+start:1703.36| end:1714.592| speaker:SPEAKER_01| text: I want to let you know that like you mean so much to me but but for the company I think that's what they want to do four hundred fifty thousand six percent you guys got a deal
+start:1719.683| end:1721.285| speaker:SPEAKER_00| text: Oh, I've had it now.
+start:1721.545| end:1721.945| speaker:SPEAKER_00| text:Wow.
+start:1721.985| end:1725.668| speaker:SPEAKER_01| text:Congratulations.
+start:1725.688| end:1726.669| speaker:SPEAKER_01| text:Thank you.
+start:1725.688| end:1726.669| speaker:SPEAKER_01| text:Thank you.
+start:1727.87| end:1729.151| speaker:SPEAKER_01| text:You guys are great.
+start:1729.211| end:1731.733| speaker:SPEAKER_01| text:Thank you so much.
+start:1731.833| end:1732.433| speaker:SPEAKER_00| text:Oh, my God.
+start:1732.473| end:1734.175| speaker:SPEAKER_01| text:You guys are as sharky as we are.
+start:1734.335| end:1736.236| speaker:SPEAKER_00| text:Oh, they're very sharky.
+start:1736.257| end:1737.357| speaker:SPEAKER_00| text:Good job, you guys.
+start:1738.118| end:1738.919| speaker:SPEAKER_00| text:Are we skipping?
+start:1738.959| end:1739.659| speaker:SPEAKER_00| text:Sure, yeah.
+start:1739.679| end:1740.14| speaker:SPEAKER_00| text:Good job.
+start:1741.505| end:1743.327| speaker:SPEAKER_01| text: Mark and Laurie were our target sharks.
+start:1743.607| end:1745.93| speaker:SPEAKER_00| text:We did not prepare for that scenario at all.
+start:1745.95| end:1747.992| speaker:SPEAKER_00| text:And we're just glad it worked out.
+start:1748.012| end:1754.378| speaker:SPEAKER_00| text:It was definitely a risky move to try to break up Barbara and Mark and get Laurie in there instead.
+start:1754.758| end:1756.12| speaker:SPEAKER_00| text:And we're glad that it worked out.
+start:1756.48| end:1758.022| speaker:SPEAKER_00| text: Mark, I brought you into the deal.
+start:1758.042| end:1759.283| speaker:SPEAKER_00| text:You didn't even want the deal.
+start:1759.424| end:1760.565| speaker:SPEAKER_00| text:I was pushing you for the deal.
+start:1760.585| end:1761.866| speaker:SPEAKER_00| text:You were my partner.
+start:1762.087| end:1765.471| speaker:SPEAKER_00| text:I never for a moment thought you would throw me under the bus and go with Lori.
+start:1765.611| end:1767.213| speaker:SPEAKER_00| text:I really feel like the scorned woman.
+start:1767.7930000000001| end:1768.274| speaker:SPEAKER_01| text:Robert knew.
+start:1768.314| end:1769.495| speaker:SPEAKER_01| text:Barbara, that's the difference.
+start:1769.996| end:1771.758| speaker:SPEAKER_01| text:I knew Lori would throw me under the bus.

@@ -6,55 +6,39 @@ from pytube import YouTube
 from pydub import AudioSegment
 import moviepy.editor as mp
 import re
+import torch
 from openai import OpenAI
 
 load_dotenv()
 
 
-def youtube_to_audio(youtube_url, output_file):  # use command in doc.md instead
-    try:
-        # Download YouTube video
-        yt = YouTube(youtube_url)
-        stream = yt.streams.filter(only_audio=True).first()
-        stream.download(output_path="./", filename=output_file)
-    except Exception as e:
-        print("Error:", e)
+class Preprocess:
+    sub_folder = "./samples/"
 
+    """
+    run the following command to convert youtube to audio:
+    yt-dlp -x --audio-format wav -o ./samples/test.wav https://www.youtube.com/watch?v=DcWqzZ3I2cY&t=7252s&ab_channel=LexFridman
+    """
 
-def sort_filenames(filenames):
-    return sorted(filenames, key=lambda x: int(re.search(r"\d+", x).group()))
+    @classmethod
+    def split_audio_file(cls, audio_file, chunk_size_in_minutes, split_dir):
+        output_dir = os.path.join(cls.sub_folder, split_dir)
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
 
+        file_extension = audio_file.split(".")[-1]
+        audio_file_path = os.path.join(cls.sub_folder, audio_file)
+        sound = AudioSegment.from_file(audio_file_path, format=file_extension)
 
-def split_mp3(audio_file, chunk_size_in_minutes=0.1, output_dir="./samples/jeff"):
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-    file_extension = audio_file.split(".")[-1]
-    sound = AudioSegment.from_file(audio_file, format="mp3")
-    chunk_size_in_milliseconds = int(chunk_size_in_minutes * 60 * 1000)
-    for i in range(0, len(sound), chunk_size_in_milliseconds):
-        sound_bite = sound[i : i + chunk_size_in_milliseconds]
-        with open(f"{output_dir}/audio_{i}.wav", "wb") as out_f:
-            sound_bite.export(out_f, format="wav")
+        chunk_size_in_milliseconds = int(chunk_size_in_minutes * 60 * 1000)
+        for i in range(0, len(sound), chunk_size_in_milliseconds):
+            sound_bite = sound[i : i + chunk_size_in_milliseconds]
+            time_stamp = int(i / 1000)
+            with open(f"{output_dir}/audio_{time_stamp}.wav", "wb") as out_f:
+                sound_bite.export(out_f, format="wav")
 
-
-def query_chatbot(question):
-    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-
-    with open("speech.txt", "r") as file:
-        chat = file.read()
-
-    chat_and_question = f"Chat:{chat}\n{question}"
-    response = client.chat.completions.create(
-        model="gpt-3.5-turbo-1106",
-        messages=[
-            {
-                "role": "system",
-                "content": "You are a helpful assistant that answers querstions based on the given chat",
-            },
-            {"role": "user", "content": chat_and_question},
-        ],
-    )
-    print(response.choices[0].message.content)
+    def sort_filenames(filenames):
+        return sorted(filenames, key=lambda x: int(re.search(r"\d+", x).group()))
 
 
 class Transcribe:
@@ -64,7 +48,7 @@ class Transcribe:
         self.compute_type = compute_type
         self.HF_TOKEN = HF_TOKEN
 
-    def transcribe(self, audio_file):
+    def transcribe(self, audio_file, output_file):
         model = whisperx.load_model(
             "large", self.device, compute_type=self.compute_type
         )
@@ -95,14 +79,21 @@ class Transcribe:
         diarize_segments = diarize_model(audio)
         # diarize_model(audio, min_speakers=min_speakers, max_speakers=max_speakers)
 
-        ref_time = int(re.search(r"\d+", audio_file).group()) / 1000
+        ref_time = int(re.search(r"\d+", audio_file).group())
         result = whisperx.assign_word_speakers(diarize_segments, result)
-        print(diarize_segments)
-        print("SEGMENTS AFTER DIATERIZATION:")
         for sentence in result["segments"]:  # segments are now assigned speaker IDs
-            output_sentence = f"start:{sentence['start']+ref_time}| end:{sentence['end']+ref_time}| speaker:{sentence['speaker']}| text:{sentence['text']}"
-            with open("speech.txt", "a") as f:
+            try:
+                output_sentence = f"start:{sentence['start']+ref_time}| end:{sentence['end']+ref_time}| speaker:{sentence['speaker']}| text:{sentence['text']}"
+            except Exception as e:
+                print(e)
+            with open(output_file, "a") as f:
                 f.write(output_sentence + "\n")
+
+    def run_on_split_audio(self, split_dir, output_file):
+        filenames = Preprocess.sort_filenames(os.listdir(f"{split_dir}"))
+        for file in filenames:
+            stt.transcribe(os.path.join(split_dir, file), output_file=output_file)
+            torch.cuda.empty_cache()
 
 
 if __name__ == "__main__":
@@ -110,28 +101,13 @@ if __name__ == "__main__":
     device = "cuda"
     batch_size = 16
     compute_type = "float16"
-    audio_folder = "./samples/jeff"
+    split_dir = os.path.join(Preprocess.sub_folder, "sharktank")
 
     """
-    query_chatbot("Provide me an exhaustive list of occiurences in which John Glenn was mentioned?")
+    Preprocess.split_audio_file(
+        audio_file="sharktank.wav", chunk_size_in_minutes=2, split_dir="sharktank"
+    )
     """
 
-    # takes in a file number and transcribes the audio file and adds the transcript to the speech.txt file
-    """
-    file_number = 5
-    filenames = sort_filenames(os.listdir(f"{audio_folder}"))
-    print(filenames)
     stt = Transcribe(device, batch_size, compute_type, HF_TOKEN)
-
-    # set filenames to the audio
-    file = filenames[file_number]
-    stt.transcribe(f"{audio_folder}/{file}")
-    """
-
-    # split mp3 into chunks
-    """ 
-    output_file = "./samples/jeff.mp3"
-    split_folder = "./samples/jeff"
-    split_mp3(output_file, chunk_size_in_minutes=2, output_dir=split_folder)
-    """
-# pytube audio doesnt split with pydub splitter. try youtube-dl
+    stt.run_on_split_audio(split_dir, output_file="./text/shark.txt")
