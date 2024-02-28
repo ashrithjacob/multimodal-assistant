@@ -583,3 +583,4 @@ start:1765.611| end:1767.213| speaker:SPEAKER_00| text:I really feel like the sc
 start:1767.7930000000001| end:1768.274| speaker:SPEAKER_01| text:Robert knew.
 start:1768.314| end:1769.495| speaker:SPEAKER_01| text:Barbara, that's the difference.
 start:1769.996| end:1771.758| speaker:SPEAKER_01| text:I knew Lori would throw me under the bus.
+start:1769.996| end:1771.758| speaker:SPEAKER_01| text:I knew Lori would throw me under the bus.

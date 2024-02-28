@@ -110,4 +110,4 @@ if __name__ == "__main__":
     """
 
     stt = Transcribe(device, batch_size, compute_type, HF_TOKEN)
-    stt.run_on_split_audio(split_dir, output_file="./text/shark.txt")
+    #stt.run_on_split_audio(split_dir, output_file="./text/shark.txt")
