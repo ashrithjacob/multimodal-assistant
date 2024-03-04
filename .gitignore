@@ -4,6 +4,7 @@
 **/weights/
 **/samples/
 **/video/*.pt
+**/node_modules/*
 *.sqlite3
 
 # Byte-compiled / optimized / DLL files

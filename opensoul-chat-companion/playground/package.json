@@ -1,0 +1,10 @@
+{ 
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playground": "^0.7.0",
+    "prompt-sync": "^4.2.0",
+    "socialagi": "^0.1.7",
+    "ts-node": "^10.9.2"
+  }
+}
