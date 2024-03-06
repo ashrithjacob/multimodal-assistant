@@ -4,15 +4,12 @@ import { Perception } from "soul-engine/soul";
 import { DiscordEventData } from "../discord/soulGateway.js";
 import { getMetadataFromPerception, getUserDataFromDiscordEvent, newMemory } from "./lib/utils.js";
 
-const log = useActions();
-
 const initialProcess: MentalProcess = async ({ step: initialStep }) => {
   const { log, dispatch } = useActions();
   const { invokingPerception, pendingPerceptions } = usePerceptions();
   const { userName, discordEvent } = getMetadataFromPerception(invokingPerception);
 
-  log("Here1")
-
+  log("Here's a new message from Discord: ", pendingPerceptions);
   const hasReachedPendingPerceptionsLimit = pendingPerceptions.current.length > 10;
   if (hasReachedPendingPerceptionsLimit) {
     log("Pending perceptions limit reached. Skipping perception.");
@@ -65,7 +62,6 @@ const initialProcess: MentalProcess = async ({ step: initialStep }) => {
     },
   });
 
-  log("Here2")
   return await nextStep;
 };
 
@@ -73,8 +69,7 @@ function hasMoreMessagesFromSameUser(pendingPerceptions: Perception[], userName:
   const countOfPendingPerceptionsBySamePerson = pendingPerceptions.filter((perception) => {
     return getMetadataFromPerception(perception)?.userName === userName;
   }).length;
-  const { log } = useActions();
-  log("Here3")
+
   return countOfPendingPerceptionsBySamePerson > 0;
 }
 
@@ -105,9 +100,8 @@ function rememberUser(step: CortexStep<any>, discordEvent: DiscordEventData | un
   } else {
     log(`No memory about ${userName}`);
   }
-  console.log("Here4")
+
   return step;
 }
-
 
 export default initialProcess;

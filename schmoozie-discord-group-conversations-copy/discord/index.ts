@@ -1,7 +1,7 @@
 import { Client, Events, GatewayIntentBits } from "discord.js";
 import dotenv from "dotenv";
 import { SoulGateway } from "./soulGateway.js";
-console.log("Here0")
+
 dotenv.config({ path: "../.env" });
 
 const client = new Client({
