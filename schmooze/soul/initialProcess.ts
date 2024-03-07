@@ -9,7 +9,9 @@ const initialProcess: MentalProcess = async ({ step: initialStep }) => {
   const { invokingPerception, pendingPerceptions } = usePerceptions();
   const { userName, discordEvent } = getMetadataFromPerception(invokingPerception);
 
-  log("Here's a new message from Discord: ", pendingPerceptions);
+  log("KASAM Sees a new message from ");
+
+  /*
   const hasReachedPendingPerceptionsLimit = pendingPerceptions.current.length > 10;
   if (hasReachedPendingPerceptionsLimit) {
     log("Pending perceptions limit reached. Skipping perception.");
@@ -21,9 +23,9 @@ const initialProcess: MentalProcess = async ({ step: initialStep }) => {
     log(`Skipping perception from ${userName} because it's part of a message burst`);
     return initialStep;
   }
-
+  */
   let step = rememberUser(initialStep, discordEvent);
-
+  /*
   const interlocutor = await step.compute(
     decision(
       `Schmoozie is the moderator of this channel. Participants sometimes talk to Schmoozie, and sometimes between themselves. In this last message sent by ${userName}, guess which person they are probably speaking with.`,
@@ -47,7 +49,7 @@ const initialProcess: MentalProcess = async ({ step: initialStep }) => {
     log(`Aborting response to ${userName} because they've sent more messages in the meantime`);
     return initialStep;
   }
-
+  */
   log(`Answering message from ${userName}`);
   const { stream, nextStep } = await step.next(externalDialog(`Schmoozie answers ${userName}'s message`), {
     stream: true,
@@ -64,7 +66,7 @@ const initialProcess: MentalProcess = async ({ step: initialStep }) => {
 
   return await nextStep;
 };
-
+/*
 function hasMoreMessagesFromSameUser(pendingPerceptions: Perception[], userName: string) {
   const countOfPendingPerceptionsBySamePerson = pendingPerceptions.filter((perception) => {
     return getMetadataFromPerception(perception)?.userName === userName;
@@ -72,7 +74,7 @@ function hasMoreMessagesFromSameUser(pendingPerceptions: Perception[], userName:
 
   return countOfPendingPerceptionsBySamePerson > 0;
 }
-
+*/
 function rememberUser(step: CortexStep<any>, discordEvent: DiscordEventData | undefined) {
   const { log } = useActions();
   const { userName, userDisplayName } = getUserDataFromDiscordEvent(discordEvent);
@@ -81,8 +83,7 @@ function rememberUser(step: CortexStep<any>, discordEvent: DiscordEventData | un
   const userLastMessage = useSoulMemory(userName + "-lastMessage", "");
 
   let remembered = "";
-  log("UserModel", userModel);
-  log("UserLastMessage", userLastMessage);
+
   if (userModel.current) {
     remembered += userModel.current;
   }
