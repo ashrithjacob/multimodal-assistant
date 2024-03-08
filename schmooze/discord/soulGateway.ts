@@ -63,6 +63,8 @@ export class SoulGateway {
 
   async onSoulSays(event: ActionEvent) {
     const { content } = event;
+    const c = await content();
+    console.log("soul said:", c);
 
     const { discordEvent, actionConfig } = getMetadataFromActionEvent(event);
     if (!discordEvent) return;
@@ -93,6 +95,12 @@ export class SoulGateway {
     if (shouldIgnoreMessage) {
       return;
     }
+
+    const timestamp = discordMessage.createdAt.getTime();
+    const t = typeof timestamp;
+    console.log('Message timestamp:', timestamp, t);
+    const currentUTCTime = new Date().getTime();
+    console.log(currentUTCTime);
 
     const discordEvent = await makeMessageCreateDiscordEvent(discordMessage);
     const userName = discordEvent.atMentionUsername;
