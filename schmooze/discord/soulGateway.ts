@@ -1,4 +1,4 @@
-import { Client, Events, Message, MessageType, ReplyOptions } from "discord.js";
+import { Channel, Client, Events, Message, MessageType, ReplyOptions } from "discord.js";
 import { ActionEvent, Soul } from "soul-engine/soul";
 import { getMetadataFromActionEvent, makeMessageCreateDiscordEvent } from "./eventUtils.js";
 
@@ -44,20 +44,16 @@ export class SoulGateway {
   }
 
   start(readyClient: Client<true>) {
-    this.soul.on("says", this.onSoulSays);
-
-    this.soul.connect();
-
-    this.soul.setEnvironment({
-      botUserId: readyClient.user.id,
-    });
-
-    this.client.on(Events.MessageCreate, this.handleMessage);
+    const channel = this.client.channels.cache.get(process.env.DISCORD_CHANNEL_ID!);
+    //console.log(channel)
+    const pingTimeInSeconds = 10;
+    let lastCheck = Date.now();
+    console.log("lastCheck:", lastCheck);
+    setInterval(() => this.checkNewMessage(channel, lastCheck), pingTimeInSeconds * 1000);
   }
 
   stop() {
     this.client.off(Events.MessageCreate, this.handleMessage);
-
     return this.soul.disconnect();
   }
 
@@ -104,6 +100,8 @@ export class SoulGateway {
 
     const discordEvent = await makeMessageCreateDiscordEvent(discordMessage);
     const userName = discordEvent.atMentionUsername;
+    console.log("discordEvent:", discordEvent);
+    console.log("userName:", userName);
 
     const userJoinedSystemMessage = discordMessage.type === MessageType.UserJoin;
     if (userJoinedSystemMessage) {
@@ -120,10 +118,11 @@ export class SoulGateway {
     }
 
     let content = discordMessage.content;
+    console.log("content:", content);
     if (discordEvent.repliedToUserId) {
       content = `<@${discordEvent.repliedToUserId}> ${content}`;
     }
-
+    /*
     this.soul.dispatch({
       action: "chatted",
       content,
@@ -133,10 +132,28 @@ export class SoulGateway {
         botUserId: this.client.user?.id,
       },
     });
-
+    */
+    
     const channel = await this.client.channels.fetch(process.env.DISCORD_CHANNEL_ID!);
     if (channel && channel.isTextBased()) {
       await channel.sendTyping();
     }
+  }
+
+  async checkNewMessage(channel, lastCheck) {
+    console.log("In function", lastCheck);
+    // Your function logic goes here
+    const messages = await channel.messages.fetch({ limit: 10 });
+    messages.forEach((message) => {
+      // Check if the message was sent after the last check
+      if (message.createdTimestamp > lastCheck) {
+        //console.log(`New message from ${message.author.username}: ${message.content}`);
+        console.log(`Message timestamp: ${message.createdTimestamp}\t lastCheck: ${lastCheck}`);
+      }
+      else {
+        console.log(`Old message`);
+      }
+    });
+    lastCheck = Date.now();
   }
 }
