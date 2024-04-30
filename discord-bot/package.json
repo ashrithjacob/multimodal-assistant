@@ -16,6 +16,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "@sapphire/snowflake": "^3.5.3",
     "common-tags": "^1.8.2",
     "discord.js": "^14.14.1",
     "dotenv": "^16.4.1",

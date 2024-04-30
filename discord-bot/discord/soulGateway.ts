@@ -51,6 +51,7 @@ export class SoulGateway {
     this.soul.setEnvironment({
       botUserId: readyClient.user.id,
     });
+    console.log("ready client user id", readyClient.user.id);
 
     this.client.on(Events.MessageCreate, this.handleMessage);
   }
@@ -61,6 +62,7 @@ export class SoulGateway {
     return this.soul.disconnect();
   }
 
+  //when soul says something, send it to discord
   async onSoulSays(event: ActionEvent) {
     const { content } = event;
 
